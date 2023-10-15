@@ -150,11 +150,11 @@ footer {
   color: #000;
 }
 
-section#about {
+/* section#about {
   background-color: bisque;
   border: solid 1px bisque;
   border-radius: 10px;
-}
+} */
 
 section#technology {
   background-color: burlywood;
